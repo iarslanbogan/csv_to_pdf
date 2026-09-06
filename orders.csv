@@ -1,0 +1,4 @@
+Order_ID,Customer_Name,Item_Description,Quantity,Unit_Price
+1001,  Acme Corp ,Industrial Sensor,5,120.50
+1002,Beta Ltd,Pressure Gauge, 10 ,45.00
+1003,,Flow Meter,2,310.00
